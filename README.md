@@ -6,7 +6,17 @@ If a workflow is annoying enough that I hit it twice, I'll probably build someth
 
 ---
 
-### Open-source projects
+### Governance platforms (Spring Boot services)
+
+Larger, service-shaped projects — REST APIs, Postgres + Flyway, Docker, approval workflows and audit trails. Early-stage (v0.1) but real and fully tested.
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**datacontract-hub**](https://github.com/SraavanChevireddy/datacontract-hub) | Data-contract governance: versioned schemas, compatibility enforcement (backward/forward/full), approval workflow, audit trail. | Spring Boot · Java 21 |
+| [**flowguard**](https://github.com/SraavanChevireddy/flowguard) | A policy control-plane for Apache Airflow — gate, rate-limit, and audit every DAG run (allowlists, freeze windows, required conf) before it hits the scheduler. | Spring Boot · Java 21 |
+| [**kafka-guard**](https://github.com/SraavanChevireddy/kafka-guard) | A governance gateway for Kafka topic provisioning — enforce naming, partitioning, retention, and ownership policy with an approval workflow. | Spring Boot · Java 21 |
+
+### Developer tools & CLIs
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
