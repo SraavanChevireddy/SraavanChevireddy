@@ -31,6 +31,20 @@ Also: [kafka-playground](https://github.com/SraavanChevireddy/kafka-playground) 
 
 ---
 
+### Writing
+
+I write about software supply chain security on Substack: the vulnerabilities and attacks engineers need to act on, what actually happened, and a check you can run in about a minute.
+
+<!-- BLOG-POST-LIST:START -->
+- [The Malware Came Through the Front Door](https://sraavanchevireddy.substack.com/p/the-malware-came-through-the-front)
+- [nginx Had a Hole Since 2015. Here's How to Find Every nginx You Forgot You Run](https://sraavanchevireddy.substack.com/p/nginx-had-a-hole-since-2015-heres)
+- [64 A's and an Equals Sign: Java4Shell for People Who Ship JVMs](https://sraavanchevireddy.substack.com/p/64-as-and-an-equals-sign-java4shell)
+<!-- BLOG-POST-LIST:END -->
+
+[Subscribe on Substack](https://sraavanchevireddy.substack.com) · [Medium](https://medium.com/@sraavanchevireddy) · [sraavanchevireddy.com](https://www.sraavanchevireddy.com)
+
+---
+
 ### Tech I reach for
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -53,5 +67,8 @@ Also: [kafka-playground](https://github.com/SraavanChevireddy/kafka-playground) 
 ### Let's connect
 
 [![X](https://img.shields.io/twitter/follow/sraavanReddy1?style=social)](https://twitter.com/sraavanReddy1)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://sraavanchevireddy.substack.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sraavanchevireddy)
+[![Website](https://img.shields.io/badge/sraavanchevireddy.com-111111?style=flat&logo=vercel&logoColor=white)](https://www.sraavanchevireddy.com)
 
 ![profile views](https://komarev.com/ghpvc/?username=SraavanChevireddy)

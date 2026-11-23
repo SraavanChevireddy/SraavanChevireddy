@@ -1,0 +1,24 @@
+# Keeps the "Writing" list in README.md in sync with the Substack feed,
+# so new posts appear on the profile without a manual edit.
+name: Latest Substack posts
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 # v4.3.0
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
+        with:
+          feed_list: "https://sraavanchevireddy.substack.com/feed"
+          max_post_count: 5
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "Update latest Substack posts"
