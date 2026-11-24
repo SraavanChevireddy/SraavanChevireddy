@@ -36,9 +36,10 @@ Also: [kafka-playground](https://github.com/SraavanChevireddy/kafka-playground) 
 I write about software supply chain security on Substack: the vulnerabilities and attacks engineers need to act on, what actually happened, and a check you can run in about a minute.
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Prompts Have Transitive Dependencies](https://sraavanchevireddy.substack.com/p/your-prompts-have-transitive-dependencies)
+- [nginx Had a Hole Since 2015. Here&#39;s How to Find Every nginx You Forgot You Run](https://sraavanchevireddy.substack.com/p/nginx-had-a-hole-since-2015-heres)
 - [The Malware Came Through the Front Door](https://sraavanchevireddy.substack.com/p/the-malware-came-through-the-front)
-- [nginx Had a Hole Since 2015. Here's How to Find Every nginx You Forgot You Run](https://sraavanchevireddy.substack.com/p/nginx-had-a-hole-since-2015-heres)
-- [64 A's and an Equals Sign: Java4Shell for People Who Ship JVMs](https://sraavanchevireddy.substack.com/p/64-as-and-an-equals-sign-java4shell)
+- [64 A&#39;s and an Equals Sign: Java4Shell for People Who Ship JVMs](https://sraavanchevireddy.substack.com/p/64-as-and-an-equals-sign-java4shell)
 <!-- BLOG-POST-LIST:END -->
 
 [Subscribe on Substack](https://sraavanchevireddy.substack.com) · [Medium](https://medium.com/@sraavanchevireddy) · [sraavanchevireddy.com](https://www.sraavanchevireddy.com)
